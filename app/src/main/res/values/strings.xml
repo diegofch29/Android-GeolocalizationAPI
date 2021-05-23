@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">AndroidGeolocalizationAPI</string>
     <string name="title_activity_maps">Map</string>
+    <string name="my_location">My Location</string>
+    <string name="find_address">Find Address</string>
+    <string name="sumbit">Add Location</string>
+    <string name="add_icon">Add Icon</string>
+    <string name="address">Address</string>
+    <string name="no_location_data_provided">No location data provided</string>
+    <string name="no_address_found">no address found</string>
+    <string name="address_found">address found</string>
+    <string name="service_not_available">service not available</string>
+    <string name="invalid_lat_long_used">invalid lat long used</string>
+    <string name="response">Location</string>
 </resources>
